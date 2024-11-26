@@ -24,6 +24,10 @@ To install this app, be sure to copy the code from the Repository and run the co
 
 Use the different navigation tabs under the name heading to browse the portfolio. In the Portfolio page, clicking on each project will link to their respective repository, There is a fillable form within the contanct page.
 
+Link for deployed portfolio:
+
+https://6744052ff357efaf57844423--leafy-quokka-87c753.netlify.app/
+
 ## Tests
 
 All testing was done via the terminal and through Xpert Learning Assistant.
@@ -43,3 +47,5 @@ For additional questions, please contact me at ddren024@gmail.com.
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+# Module-12-Challenge
